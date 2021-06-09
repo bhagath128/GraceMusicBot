@@ -30,10 +30,10 @@ async def start(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "➕ Add me to your Group 🙋‍♀️", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")],
+                        "➕ Add me to your Group 🙋‍♀️", url=f"https://t.me/Lisatelebot?startgroup=true")],
                 [
                     InlineKeyboardButton(
-                        "🧑🏻‍💻 Maintained By 🧑🏻‍💻", url=f"https://t.me/Surv_ivor")],
+                        "🧑🏻‍💻 Maintained By 🧑🏻‍💻", url=f"https://t.me/FlyingKILI")],
                 [
                     InlineKeyboardButton(
                         "🛠 Source Code 🛠", url=f"https://t.me/marvelmoviesstuff")
